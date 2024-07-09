@@ -1,4 +1,5 @@
-# Business Challenge: Exploratory Data Analysis, mySQL Databases and SQL Queries
+# Business Challenge
+# Exploratory Data Analysis, mySQL Databases and SQL Queries
 
 ## Introduction
 
