@@ -44,47 +44,47 @@ At last i queried the import from the csv files, filled my tables and verified i
 
 ## Answering 10 business questions with SQL queries
 
-0  Show amount of cars sold per month 
+0 - Show amount of cars sold per month 
 
 ![image](https://github.com/alxndrfly/mySQL-Project/assets/135460292/40213b32-dda9-493f-ba51-ffcf4b8578c9)
 
-1  Which car brand sold the most vehicles in 2015 
+1 - Which car brand sold the most vehicles in 2015 
 
 ![image](https://github.com/alxndrfly/mySQL-Project/assets/135460292/b34293eb-0b80-40a3-8048-be14d2aa0323)
 
-2  Which vehicle model is the most sold overall models across all brands
+2 - Which vehicle model is the most sold overall models across all brands
 
 ![image](https://github.com/alxndrfly/mySQL-Project/assets/135460292/ce8dbf04-b632-49ea-abb1-fbd4513b0ab4)
 
-3  What category of vehicle is the most sold 
+3 - What category of vehicle is the most sold 
 
 ![image](https://github.com/alxndrfly/mySQL-Project/assets/135460292/ac3862bc-0e3b-466b-a515-642ec7ac1f0c)
 
-4  What percentage of the sales do all types of vehicle encompass 
+4 - What percentage of the sales do all types of vehicle encompass 
 
 ![image](https://github.com/alxndrfly/mySQL-Project/assets/135460292/2602a612-9906-47db-bffb-c119f4de3303)
 
-5  Most popular colour for toyota cars 
+5 - Most popular colour for toyota cars 
 
 ![image](https://github.com/alxndrfly/mySQL-Project/assets/135460292/6acf2a90-57e4-440e-9947-160c2ea46fe2)
 
-6  How many manuals and how many automatics are in the database sorted by each year of production (not sold)?
+6 - How many manuals and how many automatics are in the database sorted by each year of production (not sold)?
 
 ![image](https://github.com/alxndrfly/mySQL-Project/assets/135460292/2d776278-a00d-4765-9e02-0911e63a6364)
 
-7  Average odometer of a car when sold
+7 - Average odometer of a car when sold
 
 ![image](https://github.com/alxndrfly/mySQL-Project/assets/135460292/f14358a9-5261-4b6b-8235-f45b184706f0)
 
-8  Most popular interiors ? 
+8 - Most popular interiors ? 
 
 ![image](https://github.com/alxndrfly/mySQL-Project/assets/135460292/feb9e321-7349-47f5-abe4-8c783c970b71)
 
-9  Which seller has the highest total sales in $ ?
+9 - Which seller has the highest total sales in $ ?
 
 ![image](https://github.com/alxndrfly/mySQL-Project/assets/135460292/8c26c239-9179-48c8-9559-9125efb183fc)
 
-10  Rank sellers by the amount of cars they sold in total descending 
+10 - Rank sellers by the amount of cars they sold in total descending 
 
 ![image](https://github.com/alxndrfly/mySQL-Project/assets/135460292/32e9a2d3-8292-4ca7-af19-1e3f16a61b89)
 
