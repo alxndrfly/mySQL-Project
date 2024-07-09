@@ -22,14 +22,14 @@ This dataset provides a comprehensive collection of information pertaining to th
 
 ![image](https://github.com/alxndrfly/mySQL-Project/assets/135460292/dd373b96-16e7-497c-b5e4-1d7eb3f02eb2)
 
-  ### Data cleaning
+  ### Data cleaning in python
 
 - Deleted the column MMR as it is not relevant for our analysis.
 - Deleted the trim column as it is not relevant since we are conducting a general analysis on the cars market.
 - Cleaned the sale date column to obtain only the day, month and year in SQL preferred format.
 - Eliminated every row where at least one column has a null value, that way we are working with a dataset without null values :).
 
-  ## mySQL preparation
+  ### mySQL preparation
 
 I divided the dataset into 3 csv files to have 3 tables in SQL.
 Those 3 tables are linked by a key like so :
